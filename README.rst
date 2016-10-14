@@ -2,6 +2,7 @@ Viva Belarus!
 =================
 
 That's a way to replace ugly bssr flag, which goes with macOS, with awesome white-red-white flag.
+
 .. image:: screen.png
 
 How to install
