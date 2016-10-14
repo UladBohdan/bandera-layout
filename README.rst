@@ -26,6 +26,7 @@ How to install
 .. code-block::
 
     cd /tmp && git clone https://github.com/UladBohdan/viva-belarus-layout.git
+    
     sudo cp -r viva-belarus-layout/viva-belarus.bundle /Library/Keyboard\ Layouts/
 
 * Зайсці ў моўныя налады (language preferences), націснуць "+" і дадаць "Viva Belarus!" раскладку з укладкі "Belarusian".
