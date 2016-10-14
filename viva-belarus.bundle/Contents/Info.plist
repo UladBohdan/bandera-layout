@@ -5,22 +5,15 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.cyrillicbilingual</string>
 	<key>CFBundleName</key>
-	<string>Cyrillic bilingual</string>
+	<string>viva-belarus</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
-	<key>KLInfo_Cyrillic bilingual</key>
+	<key>KLInfo_Viva Belarus!</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.cyrillicbilingual.cyrillicbilingual</string>
+		<string>org.sil.ukelele.keyboardlayout.cyrillicbilingual.vivabelarus!</string>
 		<key>TISIntendedLanguage</key>
-		<string>en-UA</string>
-	</dict>
-	<key>KLInfo_Cyrillic bilingual - Phonetic</key>
-	<dict>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.cyrillicbilingual-phonetic</string>
-		<key>TISIntendedLanguage</key>
-		<string>en-UA</string>
+		<string>be-BY</string>
 	</dict>
 </dict>
 </plist>

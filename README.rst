@@ -1,37 +1,41 @@
-Cyrillic keyboard
+Viva Belarus!
+Жыве Беларусь!
 =================
 
-For particular reason I don't like to look at *that* flag anymore.
-So I hacked my keyboard layout, changed its name, flag and
-added missing Ukrainian-Cyrillic letters to it.
-
+That's a way to replace ugly bssr flag, which goes with macOS, with awesome white-red-white flag.
+Спосаб замяніць уродлівы сцяг БССР, які ідзе разам з macOS, мілым сэрцу бел-чырвона-белым сцягам.
 .. image:: screen.png
-
-UPD: Added a version of standard "Cyrillic phonetic" keybord layout with a better flag.
 
 How to install
 --------------
 
-* Copy 'Cyrillic bilingual.bundle' into /Library/Keyboard\\ Layouts like this:
+* Copy 'viva-belarus.bundle' into /Library/Keyboard\\ Layouts like this:
 
-.. code-block:: 
+.. code-block::
 
-    cd /tmp && git clone https://github.com/muromec/bandera-layout.git
-    sudo cp -r bandera-layout/Cyrillic\ bilingual.bundle /Library/Keyboard\ Layouts/
+    cd /tmp && git clone https://github.com/UladBohdan/viva-belarus-layout.git
+    sudo cp -r viva-belarus-layout/viva-belarus.bundle /Library/Keyboard\ Layouts/
 
-* Go to language preferences, press "+" button and add "Cyrillic bilingual" layout from "English" group.
+* Go to language preferences, press "+" button and add "Viva Belarus!" layout from "Belarusian" group.
 
-How to use
+Як усталяваць
+--------------
+
+* Скапіяваць 'viva-belarus.bundle' у /Library/Keyboard\\ Layouts наступным чынам:
+
+.. code-block::
+
+    cd /tmp && git clone https://github.com/UladBohdan/viva-belarus-layout.git
+    sudo cp -r viva-belarus-layout/viva-belarus.bundle /Library/Keyboard\ Layouts/
+
+* Зайсці ў моўныя налады (language preferences), націснуць "+" і дадаць "Viva Belarus!" раскладку з укладкі "Belarusian".
+
+No more russian keyboard on your Mac!
+Ніякіх больш расейскіх раскладак на Вашым Маку!
 ----------
 
-Ukrainian-cyrillic keys:
-
-- `alt-и` for і
-- `alt-й` or `alt-§` for ї
-- `alt-э` є
-
-Bonus keys:
-
-- alt-е
-- alt-ц
-
+- `alt-і` for 'и'
+- `alt-shift-і` for 'И'
+- `alt-ў` for 'щ'
+- `alt-shift-ў` for 'Щ'
+- `alt-'` for 'ъ'
